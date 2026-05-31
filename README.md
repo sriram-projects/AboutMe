@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram A</h1>
-<h3 align="center">🚀 AI Developer & Python Enthusiast | CSE Final Year | Chennai, India</h3>
+<h3 align="center">🚀 Python Enthusiast | CSE Final Year | Chennai, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+Automation+Builder;Building+tools+that+solve+real+problems" alt="Typing SVG" />
@@ -11,8 +11,6 @@
 
 - 🎓 Final-year **Computer Science Engineering** student
 - 🏠 Based in **Chennai, Tamil Nadu, India**
-- 🔭 Currently working on **AI-powered tools & workflow automation**
-- 🌱 Exploring **LLMs, RAG pipelines, n8n automation & Anthropic APIs**
 - 💡 Passionate about building practical tools that solve real-world problems
 - 📫 Reach me at **sriram.a.cse@gmail.com**
 
